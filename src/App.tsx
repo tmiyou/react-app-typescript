@@ -1,7 +1,8 @@
 import React from "react";
+import { Container } from "./Container";
 
 function App() {
-  return <div></div>;
+  return <Container>Display content here</Container>;
 }
 
 export default App;
